@@ -1,0 +1,10 @@
+{
+  "name": "banda",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "font-awesome": "~4.3.0",
+    "magnific-popup": "~1.0.0"
+  }
+}

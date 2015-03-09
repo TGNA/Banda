@@ -1,0 +1,11 @@
+Error: Bad Request
+    at SendStream.error (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/serve-static/node_modules/send/lib/send.js:173:16)
+    at SendStream.pipe (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/serve-static/node_modules/send/lib/send.js:364:31)
+    at Object.staticMiddleware [as handle] (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/serve-static/index.js:94:8)
+    at next (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/lib/proto.js:194:15)
+    at Object.livereload [as handle] (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect-livereload/index.js:93:14)
+    at next (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/lib/proto.js:194:15)
+    at Function.app.handle (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/lib/proto.js:202:3)
+    at Server.app (/Users/oscarblancocastan/Desktop/Banda/node_modules/grunt-contrib-connect/node_modules/connect/lib/connect.js:65:37)
+    at Server.emit (events.js:110:17)
+    at HTTPParser.parserOnIncoming [as onIncoming] (_http_server.js:491:12)
